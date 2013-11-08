@@ -7,7 +7,10 @@ TODO: Describe the installation process
 
 ## Usage
 
-TODO: Write usage instructions
+1. go to your project's root;
+2. wget -O - https://raw.github.com/liuwenchao/gurutemplate/master/readme/basic.md>README.md
+
+you can change the url to other template.
 
 ## Contributing
 
